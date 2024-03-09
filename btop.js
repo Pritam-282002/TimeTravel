@@ -16,7 +16,7 @@ function scrollFunction() {
     mybutton.style.display = "none";
   }
 }
-// When the user clicks on the button, scroll to the top of the document
+// When the user clicks on the button, scroll to the top of the do
 mybutton.addEventListener("click", backToTop);
 
 function backToTop() {
